@@ -1,0 +1,3 @@
+DAILY_EXCEL_PATH=C:/Users/rno/Downloads/Excel/Bloqueado/2025 - ROBERTO NASCIMENTO OLIVEIRA.xlsx
+SHEETS_DIR=C:/Users/rno/Downloads/Excel/Bloqueado
+SELECTOR_EXCEL_PATH=J:/Adm Tec/Apropriação de Horas/2025/2025_Plano de Contas.xlsx
